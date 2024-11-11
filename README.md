@@ -4,7 +4,6 @@
 - 📫 How to reach me sumitbade1@gmail.com
 - ⚡ Fun fact: creator | engineer | traveller
 
-<!---
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
@@ -37,6 +36,8 @@
 - [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
   
 - [Docker 🐋Networking Essentials: Boost Your Container Communication 🔁 Skills](https://www.linkedin.com/pulse/docker-networking-essentials-boost-your-container-skills-dhoble-kmrjc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-sumitbade/sumitbade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+- [Streamline Your Cloud 🌩️Storage Strategy with AWS S3 ](https://www.linkedin.com/pulse/streamline-your-cloud-storage-strategy-aws-s3-classes-abhipray-dhoble-8frcc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+
+- [Understanding Docker Exit ❌ Codes](https://www.linkedin.com/pulse/understanding-docker-exit-codesmastering-insights-flawless-dhoble-m5vlc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+
