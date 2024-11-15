@@ -1,3 +1,10 @@
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/sumitbade)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumit_bade_01)
+</details>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 - 👋 Hi, I’m @sumitbade
 - 👀 I’m interested in cloud engineering
 - I’m looking to collaborate on aws
